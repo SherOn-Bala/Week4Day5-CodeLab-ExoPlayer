@@ -1,0 +1,25 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/sheron/code/android/training/codelabs/Week4Day5-CodeLab-ExoPlayer/testutils/src/main/AndroidManifest.xml:17:1-61
+INJECTED from /home/sheron/code/android/training/codelabs/Week4Day5-CodeLab-ExoPlayer/testutils/src/main/AndroidManifest.xml:17:1-61
+INJECTED from /home/sheron/code/android/training/codelabs/Week4Day5-CodeLab-ExoPlayer/testutils/src/main/AndroidManifest.xml:17:1-61
+	package
+		ADDED from /home/sheron/code/android/training/codelabs/Week4Day5-CodeLab-ExoPlayer/testutils/src/main/AndroidManifest.xml:17:11-59
+		INJECTED from /home/sheron/code/android/training/codelabs/Week4Day5-CodeLab-ExoPlayer/testutils/src/main/AndroidManifest.xml
+		INJECTED from /home/sheron/code/android/training/codelabs/Week4Day5-CodeLab-ExoPlayer/testutils/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/sheron/code/android/training/codelabs/Week4Day5-CodeLab-ExoPlayer/testutils/src/main/AndroidManifest.xml:17:1-61
+uses-sdk
+INJECTED from /home/sheron/code/android/training/codelabs/Week4Day5-CodeLab-ExoPlayer/testutils/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/sheron/code/android/training/codelabs/Week4Day5-CodeLab-ExoPlayer/testutils/src/main/AndroidManifest.xml
+INJECTED from /home/sheron/code/android/training/codelabs/Week4Day5-CodeLab-ExoPlayer/testutils/src/main/AndroidManifest.xml
+INJECTED from /home/sheron/code/android/training/codelabs/Week4Day5-CodeLab-ExoPlayer/testutils/src/main/AndroidManifest.xml
+INJECTED from /home/sheron/code/android/training/codelabs/Week4Day5-CodeLab-ExoPlayer/testutils/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/sheron/code/android/training/codelabs/Week4Day5-CodeLab-ExoPlayer/testutils/src/main/AndroidManifest.xml
+		ADDED from /home/sheron/code/android/training/codelabs/Week4Day5-CodeLab-ExoPlayer/testutils/src/main/AndroidManifest.xml
+		INJECTED from /home/sheron/code/android/training/codelabs/Week4Day5-CodeLab-ExoPlayer/testutils/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/sheron/code/android/training/codelabs/Week4Day5-CodeLab-ExoPlayer/testutils/src/main/AndroidManifest.xml
+		ADDED from /home/sheron/code/android/training/codelabs/Week4Day5-CodeLab-ExoPlayer/testutils/src/main/AndroidManifest.xml
+		INJECTED from /home/sheron/code/android/training/codelabs/Week4Day5-CodeLab-ExoPlayer/testutils/src/main/AndroidManifest.xml

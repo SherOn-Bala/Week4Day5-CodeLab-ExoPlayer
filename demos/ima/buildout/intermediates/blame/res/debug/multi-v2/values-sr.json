@@ -1,0 +1,60 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/sheron/code/android/training/codelabs/Week4Day5-CodeLab-ExoPlayer/demos/ima/buildout/intermediates/incremental/mergeDebugResources/merged.dir/values-sr/values-sr.xml",
+            "map": [
+                {
+                    "source": "/home/sheron/.gradle/caches/transforms-2/files-2.1/7bcb75852a4d163d40e371aff005edfb/res/values-sr/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "188",
+                        "endOffsets": "435"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "188",
+                        "endOffsets": "289"
+                    }
+                },
+                {
+                    "source": "/home/sheron/code/android/training/codelabs/Week4Day5-CodeLab-ExoPlayer/library/ui/buildout/intermediates/packaged_res/debug/values-sr/values-sr.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,137,220,292,360,424,502,577,661,738,814,891,958,1023,1097,1158,1223,1294,1372,1445,1498,1556,1604,1665,1731,1795,1858,1923,1987,2048,2114,2179,2245,2297,2358,2433,2508",
+                        "endColumns": "81,82,71,67,63,77,74,83,76,75,76,66,64,73,60,64,70,77,72,52,57,47,60,65,63,62,64,63,60,65,64,65,51,60,74,74,55",
+                        "endOffsets": "132,215,287,355,419,497,572,656,733,809,886,953,1018,1092,1153,1218,1289,1367,1440,1493,1551,1599,1660,1726,1790,1853,1918,1982,2043,2109,2174,2240,2292,2353,2428,2503,2559"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "294,376,459,531,599,663,741,816,900,977,1053,1130,1197,1262,1336,1397,1462,1533,1611,1684,1737,1795,1843,1904,1970,2034,2097,2162,2226,2287,2353,2418,2484,2536,2597,2672,2747",
+                        "endColumns": "81,82,71,67,63,77,74,83,76,75,76,66,64,73,60,64,70,77,72,52,57,47,60,65,63,62,64,63,60,65,64,65,51,60,74,74,55",
+                        "endOffsets": "371,454,526,594,658,736,811,895,972,1048,1125,1192,1257,1331,1392,1457,1528,1606,1679,1732,1790,1838,1899,1965,2029,2092,2157,2221,2282,2348,2413,2479,2531,2592,2667,2742,2798"
+                    }
+                },
+                {
+                    "source": "/home/sheron/.gradle/caches/transforms-2/files-2.1/c48506788cad487355a9e956782a3909/res/values-sr/values-sr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "40",
+                        "startColumns": "4",
+                        "startOffsets": "2803",
+                        "endColumns": "100",
+                        "endOffsets": "2899"
+                    }
+                }
+            ]
+        }
+    ]
+}

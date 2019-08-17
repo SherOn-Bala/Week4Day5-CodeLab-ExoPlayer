@@ -1,0 +1,273 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/sheron/code/android/training/codelabs/Week4Day5-CodeLab-ExoPlayer/demos/cast/src/main/AndroidManifest.xml:16:1-42:12
+INJECTED from /home/sheron/code/android/training/codelabs/Week4Day5-CodeLab-ExoPlayer/demos/cast/src/main/AndroidManifest.xml:16:1-42:12
+INJECTED from /home/sheron/code/android/training/codelabs/Week4Day5-CodeLab-ExoPlayer/demos/cast/src/main/AndroidManifest.xml:16:1-42:12
+MERGED from [:library-dash] /home/sheron/code/android/training/codelabs/Week4Day5-CodeLab-ExoPlayer/library/dash/buildout/intermediates/library_manifest/debug/AndroidManifest.xml:17:1-24:12
+MERGED from [:library-hls] /home/sheron/code/android/training/codelabs/Week4Day5-CodeLab-ExoPlayer/library/hls/buildout/intermediates/library_manifest/debug/AndroidManifest.xml:17:1-24:12
+MERGED from [:library-smoothstreaming] /home/sheron/code/android/training/codelabs/Week4Day5-CodeLab-ExoPlayer/library/smoothstreaming/buildout/intermediates/library_manifest/debug/AndroidManifest.xml:17:1-24:12
+MERGED from [:extension-cast] /home/sheron/code/android/training/codelabs/Week4Day5-CodeLab-ExoPlayer/extensions/cast/buildout/intermediates/library_manifest/debug/AndroidManifest.xml:17:1-24:12
+MERGED from [:library-ui] /home/sheron/code/android/training/codelabs/Week4Day5-CodeLab-ExoPlayer/library/ui/buildout/intermediates/library_manifest/debug/AndroidManifest.xml:17:1-24:12
+MERGED from [:library-core] /home/sheron/code/android/training/codelabs/Week4Day5-CodeLab-ExoPlayer/library/core/buildout/intermediates/library_manifest/debug/AndroidManifest.xml:17:1-26:12
+MERGED from [com.google.android.material:material:1.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/945dea70de5b665bfbd334fa3397cdd5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/163a9ff455a21d045e9f6a7767808904/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-cast-framework:17.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/80786995d8c5ff27dd61b3011aaa4264/AndroidManifest.xml:2:1-22:12
+MERGED from [com.google.android.gms:play-services-cast:17.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/395cc793e1a788b6e305f45a8c7c8ff9/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.mediarouter:mediarouter:1.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/6e3aaa7d98e159f0bd922df973cef985/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/sheron/.gradle/caches/transforms-2/files-2.1/a3ae335746661254eaef90eef0e7e59b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/7e63cf607697171c9d0311f45304ef82/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.1] /home/sheron/.gradle/caches/transforms-2/files-2.1/dbfd066842595b9e57325fc43475da49/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-flags:17.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/a177d2913980a9ecf6338c45ab271399/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/f7133b83b95764775dd7b9fdfcdb940e/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/05caee7128c334b1d03f25506aa040cd/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/b3528bce76235afb530cdf353ac24c45/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/227a86ca33c2579ddbf84ce2f846fcec/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/3edfbcffcdeaca0c589cfc243b8fe02a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/39f36a8d78180597c6aa80a8c13c8231/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.palette:palette:1.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/e7d68e0633da4cea29f4ba14bb393993/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/92ebde7a4f5866345605834845d3a2fa/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/7c63ce54d7d229168e2ad427b71863a2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/a92fee6e868d3dc9a9f426faf3db9d3a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/sheron/.gradle/caches/transforms-2/files-2.1/b888ba28df66b53aaa472aea3595eb04/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/ddc89a20a7257d8a140e295dce696c54/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/346f4234dcc774d210d1ef2853cd3f4a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/f130682a37c5e50bd480bc3b9b988407/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/4fb9091788bac304c09828ffa21c75af/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/ce2f9f2280d559cc6d193d9538203764/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/934296f1a40518ace9d3dec295986c20/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/266106a8110e3a16c9c819de31abe172/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/58ec35b496e68e9a58d332e498e85145/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /home/sheron/.gradle/caches/transforms-2/files-2.1/c48506788cad487355a9e956782a3909/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/cfcd8237d4ceaa5a41963d432fe4094e/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/b31537e2c6fa6ea69e2d35da2bb04865/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/3ffd0a4509e54847d9c88e888ab794ad/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/c7ebaa613e5c0765c87f53504a3024c0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/432b900dcaa774b10fb8ecf15d73c463/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/36bbc3e5a3b2a65ba9087a92fbd7e712/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/d5515d93f6f76a9ef8bec399e5e61ac6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/756706502b3fa3cd384b3395c0cbd36c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/d35c0a677d11d93d7a902e7a837c4ffa/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/b476db1b6c9688bac1c5065651dc0404/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/65b5e28a4b7cc88bce364ad9ceb81b51/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/sheron/code/android/training/codelabs/Week4Day5-CodeLab-ExoPlayer/demos/cast/src/main/AndroidManifest.xml:16:1-42:12
+INJECTED from /home/sheron/code/android/training/codelabs/Week4Day5-CodeLab-ExoPlayer/demos/cast/src/main/AndroidManifest.xml:16:1-42:12
+	package
+		ADDED from /home/sheron/code/android/training/codelabs/Week4Day5-CodeLab-ExoPlayer/demos/cast/src/main/AndroidManifest.xml:17:5-53
+	android:versionName
+		INJECTED from /home/sheron/code/android/training/codelabs/Week4Day5-CodeLab-ExoPlayer/demos/cast/src/main/AndroidManifest.xml
+		ADDED from /home/sheron/code/android/training/codelabs/Week4Day5-CodeLab-ExoPlayer/demos/cast/src/main/AndroidManifest.xml:16:1-42:12
+		INJECTED from /home/sheron/code/android/training/codelabs/Week4Day5-CodeLab-ExoPlayer/demos/cast/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/sheron/code/android/training/codelabs/Week4Day5-CodeLab-ExoPlayer/demos/cast/src/main/AndroidManifest.xml
+		ADDED from /home/sheron/code/android/training/codelabs/Week4Day5-CodeLab-ExoPlayer/demos/cast/src/main/AndroidManifest.xml:16:1-42:12
+		INJECTED from /home/sheron/code/android/training/codelabs/Week4Day5-CodeLab-ExoPlayer/demos/cast/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/sheron/code/android/training/codelabs/Week4Day5-CodeLab-ExoPlayer/demos/cast/src/main/AndroidManifest.xml:16:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/sheron/code/android/training/codelabs/Week4Day5-CodeLab-ExoPlayer/demos/cast/src/main/AndroidManifest.xml:19:3-64
+	android:name
+		ADDED from /home/sheron/code/android/training/codelabs/Week4Day5-CodeLab-ExoPlayer/demos/cast/src/main/AndroidManifest.xml:19:20-62
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/sheron/code/android/training/codelabs/Week4Day5-CodeLab-ExoPlayer/demos/cast/src/main/AndroidManifest.xml:20:3-76
+MERGED from [:library-core] /home/sheron/code/android/training/codelabs/Week4Day5-CodeLab-ExoPlayer/library/core/buildout/intermediates/library_manifest/debug/AndroidManifest.xml:24:5-79
+MERGED from [:library-core] /home/sheron/code/android/training/codelabs/Week4Day5-CodeLab-ExoPlayer/library/core/buildout/intermediates/library_manifest/debug/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from /home/sheron/code/android/training/codelabs/Week4Day5-CodeLab-ExoPlayer/demos/cast/src/main/AndroidManifest.xml:20:20-74
+uses-sdk
+ADDED from /home/sheron/code/android/training/codelabs/Week4Day5-CodeLab-ExoPlayer/demos/cast/src/main/AndroidManifest.xml:22:3-14
+INJECTED from /home/sheron/code/android/training/codelabs/Week4Day5-CodeLab-ExoPlayer/demos/cast/src/main/AndroidManifest.xml:22:3-14
+INJECTED from /home/sheron/code/android/training/codelabs/Week4Day5-CodeLab-ExoPlayer/demos/cast/src/main/AndroidManifest.xml:22:3-14
+MERGED from [:library-dash] /home/sheron/code/android/training/codelabs/Week4Day5-CodeLab-ExoPlayer/library/dash/buildout/intermediates/library_manifest/debug/AndroidManifest.xml:20:5-22:41
+MERGED from [:library-dash] /home/sheron/code/android/training/codelabs/Week4Day5-CodeLab-ExoPlayer/library/dash/buildout/intermediates/library_manifest/debug/AndroidManifest.xml:20:5-22:41
+MERGED from [:library-hls] /home/sheron/code/android/training/codelabs/Week4Day5-CodeLab-ExoPlayer/library/hls/buildout/intermediates/library_manifest/debug/AndroidManifest.xml:20:5-22:41
+MERGED from [:library-hls] /home/sheron/code/android/training/codelabs/Week4Day5-CodeLab-ExoPlayer/library/hls/buildout/intermediates/library_manifest/debug/AndroidManifest.xml:20:5-22:41
+MERGED from [:library-smoothstreaming] /home/sheron/code/android/training/codelabs/Week4Day5-CodeLab-ExoPlayer/library/smoothstreaming/buildout/intermediates/library_manifest/debug/AndroidManifest.xml:20:5-22:41
+MERGED from [:library-smoothstreaming] /home/sheron/code/android/training/codelabs/Week4Day5-CodeLab-ExoPlayer/library/smoothstreaming/buildout/intermediates/library_manifest/debug/AndroidManifest.xml:20:5-22:41
+MERGED from [:extension-cast] /home/sheron/code/android/training/codelabs/Week4Day5-CodeLab-ExoPlayer/extensions/cast/buildout/intermediates/library_manifest/debug/AndroidManifest.xml:20:5-22:41
+MERGED from [:extension-cast] /home/sheron/code/android/training/codelabs/Week4Day5-CodeLab-ExoPlayer/extensions/cast/buildout/intermediates/library_manifest/debug/AndroidManifest.xml:20:5-22:41
+MERGED from [:library-ui] /home/sheron/code/android/training/codelabs/Week4Day5-CodeLab-ExoPlayer/library/ui/buildout/intermediates/library_manifest/debug/AndroidManifest.xml:20:5-22:41
+MERGED from [:library-ui] /home/sheron/code/android/training/codelabs/Week4Day5-CodeLab-ExoPlayer/library/ui/buildout/intermediates/library_manifest/debug/AndroidManifest.xml:20:5-22:41
+MERGED from [:library-core] /home/sheron/code/android/training/codelabs/Week4Day5-CodeLab-ExoPlayer/library/core/buildout/intermediates/library_manifest/debug/AndroidManifest.xml:20:5-22:41
+MERGED from [:library-core] /home/sheron/code/android/training/codelabs/Week4Day5-CodeLab-ExoPlayer/library/core/buildout/intermediates/library_manifest/debug/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/945dea70de5b665bfbd334fa3397cdd5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/945dea70de5b665bfbd334fa3397cdd5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/163a9ff455a21d045e9f6a7767808904/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/163a9ff455a21d045e9f6a7767808904/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast-framework:17.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/80786995d8c5ff27dd61b3011aaa4264/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cast-framework:17.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/80786995d8c5ff27dd61b3011aaa4264/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cast:17.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/395cc793e1a788b6e305f45a8c7c8ff9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast:17.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/395cc793e1a788b6e305f45a8c7c8ff9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.mediarouter:mediarouter:1.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/6e3aaa7d98e159f0bd922df973cef985/AndroidManifest.xml:20:5-44
+MERGED from [androidx.mediarouter:mediarouter:1.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/6e3aaa7d98e159f0bd922df973cef985/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/sheron/.gradle/caches/transforms-2/files-2.1/a3ae335746661254eaef90eef0e7e59b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/sheron/.gradle/caches/transforms-2/files-2.1/a3ae335746661254eaef90eef0e7e59b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/7e63cf607697171c9d0311f45304ef82/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/7e63cf607697171c9d0311f45304ef82/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.1] /home/sheron/.gradle/caches/transforms-2/files-2.1/dbfd066842595b9e57325fc43475da49/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.1] /home/sheron/.gradle/caches/transforms-2/files-2.1/dbfd066842595b9e57325fc43475da49/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:17.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/a177d2913980a9ecf6338c45ab271399/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:17.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/a177d2913980a9ecf6338c45ab271399/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/f7133b83b95764775dd7b9fdfcdb940e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/f7133b83b95764775dd7b9fdfcdb940e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/05caee7128c334b1d03f25506aa040cd/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/05caee7128c334b1d03f25506aa040cd/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/b3528bce76235afb530cdf353ac24c45/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/b3528bce76235afb530cdf353ac24c45/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/227a86ca33c2579ddbf84ce2f846fcec/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/227a86ca33c2579ddbf84ce2f846fcec/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/3edfbcffcdeaca0c589cfc243b8fe02a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/3edfbcffcdeaca0c589cfc243b8fe02a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/39f36a8d78180597c6aa80a8c13c8231/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/39f36a8d78180597c6aa80a8c13c8231/AndroidManifest.xml:20:5-44
+MERGED from [androidx.palette:palette:1.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/e7d68e0633da4cea29f4ba14bb393993/AndroidManifest.xml:20:5-44
+MERGED from [androidx.palette:palette:1.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/e7d68e0633da4cea29f4ba14bb393993/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/92ebde7a4f5866345605834845d3a2fa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/92ebde7a4f5866345605834845d3a2fa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/7c63ce54d7d229168e2ad427b71863a2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/7c63ce54d7d229168e2ad427b71863a2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/a92fee6e868d3dc9a9f426faf3db9d3a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/a92fee6e868d3dc9a9f426faf3db9d3a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/sheron/.gradle/caches/transforms-2/files-2.1/b888ba28df66b53aaa472aea3595eb04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/sheron/.gradle/caches/transforms-2/files-2.1/b888ba28df66b53aaa472aea3595eb04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/ddc89a20a7257d8a140e295dce696c54/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/ddc89a20a7257d8a140e295dce696c54/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/346f4234dcc774d210d1ef2853cd3f4a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/346f4234dcc774d210d1ef2853cd3f4a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/f130682a37c5e50bd480bc3b9b988407/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/f130682a37c5e50bd480bc3b9b988407/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/4fb9091788bac304c09828ffa21c75af/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/4fb9091788bac304c09828ffa21c75af/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/ce2f9f2280d559cc6d193d9538203764/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/ce2f9f2280d559cc6d193d9538203764/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/934296f1a40518ace9d3dec295986c20/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/934296f1a40518ace9d3dec295986c20/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/266106a8110e3a16c9c819de31abe172/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/266106a8110e3a16c9c819de31abe172/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/58ec35b496e68e9a58d332e498e85145/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/58ec35b496e68e9a58d332e498e85145/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /home/sheron/.gradle/caches/transforms-2/files-2.1/c48506788cad487355a9e956782a3909/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /home/sheron/.gradle/caches/transforms-2/files-2.1/c48506788cad487355a9e956782a3909/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/cfcd8237d4ceaa5a41963d432fe4094e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/cfcd8237d4ceaa5a41963d432fe4094e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/b31537e2c6fa6ea69e2d35da2bb04865/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/b31537e2c6fa6ea69e2d35da2bb04865/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/3ffd0a4509e54847d9c88e888ab794ad/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/3ffd0a4509e54847d9c88e888ab794ad/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/c7ebaa613e5c0765c87f53504a3024c0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/c7ebaa613e5c0765c87f53504a3024c0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/432b900dcaa774b10fb8ecf15d73c463/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/432b900dcaa774b10fb8ecf15d73c463/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/36bbc3e5a3b2a65ba9087a92fbd7e712/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/36bbc3e5a3b2a65ba9087a92fbd7e712/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/d5515d93f6f76a9ef8bec399e5e61ac6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/d5515d93f6f76a9ef8bec399e5e61ac6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/756706502b3fa3cd384b3395c0cbd36c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/756706502b3fa3cd384b3395c0cbd36c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/d35c0a677d11d93d7a902e7a837c4ffa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/d35c0a677d11d93d7a902e7a837c4ffa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/b476db1b6c9688bac1c5065651dc0404/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/b476db1b6c9688bac1c5065651dc0404/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/65b5e28a4b7cc88bce364ad9ceb81b51/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/65b5e28a4b7cc88bce364ad9ceb81b51/AndroidManifest.xml:20:5-44
+INJECTED from /home/sheron/code/android/training/codelabs/Week4Day5-CodeLab-ExoPlayer/demos/cast/src/main/AndroidManifest.xml:22:3-14
+INJECTED from /home/sheron/code/android/training/codelabs/Week4Day5-CodeLab-ExoPlayer/demos/cast/src/main/AndroidManifest.xml:22:3-14
+	android:targetSdkVersion
+		INJECTED from /home/sheron/code/android/training/codelabs/Week4Day5-CodeLab-ExoPlayer/demos/cast/src/main/AndroidManifest.xml
+		ADDED from /home/sheron/code/android/training/codelabs/Week4Day5-CodeLab-ExoPlayer/demos/cast/src/main/AndroidManifest.xml:22:3-14
+		INJECTED from /home/sheron/code/android/training/codelabs/Week4Day5-CodeLab-ExoPlayer/demos/cast/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/sheron/code/android/training/codelabs/Week4Day5-CodeLab-ExoPlayer/demos/cast/src/main/AndroidManifest.xml
+		ADDED from /home/sheron/code/android/training/codelabs/Week4Day5-CodeLab-ExoPlayer/demos/cast/src/main/AndroidManifest.xml:22:3-14
+		INJECTED from /home/sheron/code/android/training/codelabs/Week4Day5-CodeLab-ExoPlayer/demos/cast/src/main/AndroidManifest.xml
+application
+ADDED from /home/sheron/code/android/training/codelabs/Week4Day5-CodeLab-ExoPlayer/demos/cast/src/main/AndroidManifest.xml:24:3-40:17
+MERGED from [com.google.android.material:material:1.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/945dea70de5b665bfbd334fa3397cdd5/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/945dea70de5b665bfbd334fa3397cdd5/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast-framework:17.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/80786995d8c5ff27dd61b3011aaa4264/AndroidManifest.xml:9:5-20:19
+MERGED from [com.google.android.gms:play-services-cast-framework:17.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/80786995d8c5ff27dd61b3011aaa4264/AndroidManifest.xml:9:5-20:19
+MERGED from [com.google.android.gms:play-services-cast:17.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/395cc793e1a788b6e305f45a8c7c8ff9/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast:17.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/395cc793e1a788b6e305f45a8c7c8ff9/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/f7133b83b95764775dd7b9fdfcdb940e/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/f7133b83b95764775dd7b9fdfcdb940e/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/05caee7128c334b1d03f25506aa040cd/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/05caee7128c334b1d03f25506aa040cd/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/b3528bce76235afb530cdf353ac24c45/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/b3528bce76235afb530cdf353ac24c45/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.0.1] /home/sheron/.gradle/caches/transforms-2/files-2.1/c48506788cad487355a9e956782a3909/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /home/sheron/.gradle/caches/transforms-2/files-2.1/c48506788cad487355a9e956782a3909/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/cfcd8237d4ceaa5a41963d432fe4094e/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/cfcd8237d4ceaa5a41963d432fe4094e/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /home/sheron/.gradle/caches/transforms-2/files-2.1/c48506788cad487355a9e956782a3909/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /home/sheron/code/android/training/codelabs/Week4Day5-CodeLab-ExoPlayer/demos/cast/src/main/AndroidManifest.xml:24:16-56
+	android:largeHeap
+		ADDED from /home/sheron/code/android/training/codelabs/Week4Day5-CodeLab-ExoPlayer/demos/cast/src/main/AndroidManifest.xml:25:7-31
+	android:icon
+		ADDED from /home/sheron/code/android/training/codelabs/Week4Day5-CodeLab-ExoPlayer/demos/cast/src/main/AndroidManifest.xml:24:57-91
+	android:allowBackup
+		ADDED from /home/sheron/code/android/training/codelabs/Week4Day5-CodeLab-ExoPlayer/demos/cast/src/main/AndroidManifest.xml:25:32-59
+meta-data#com.google.android.gms.cast.framework.OPTIONS_PROVIDER_CLASS_NAME
+ADDED from /home/sheron/code/android/training/codelabs/Week4Day5-CodeLab-ExoPlayer/demos/cast/src/main/AndroidManifest.xml:27:5-28:92
+	android:value
+		ADDED from /home/sheron/code/android/training/codelabs/Week4Day5-CodeLab-ExoPlayer/demos/cast/src/main/AndroidManifest.xml:28:9-90
+	android:name
+		ADDED from /home/sheron/code/android/training/codelabs/Week4Day5-CodeLab-ExoPlayer/demos/cast/src/main/AndroidManifest.xml:27:16-96
+activity#com.google.android.exoplayer2.castdemo.MainActivity
+ADDED from /home/sheron/code/android/training/codelabs/Week4Day5-CodeLab-ExoPlayer/demos/cast/src/main/AndroidManifest.xml:30:5-38:16
+	android:label
+		ADDED from /home/sheron/code/android/training/codelabs/Week4Day5-CodeLab-ExoPlayer/demos/cast/src/main/AndroidManifest.xml:32:40-80
+	android:launchMode
+		ADDED from /home/sheron/code/android/training/codelabs/Week4Day5-CodeLab-ExoPlayer/demos/cast/src/main/AndroidManifest.xml:32:9-39
+	android:configChanges
+		ADDED from /home/sheron/code/android/training/codelabs/Week4Day5-CodeLab-ExoPlayer/demos/cast/src/main/AndroidManifest.xml:31:9-118
+	android:theme
+		ADDED from /home/sheron/code/android/training/codelabs/Week4Day5-CodeLab-ExoPlayer/demos/cast/src/main/AndroidManifest.xml:33:9-47
+	android:name
+		ADDED from /home/sheron/code/android/training/codelabs/Week4Day5-CodeLab-ExoPlayer/demos/cast/src/main/AndroidManifest.xml:30:15-81
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/sheron/code/android/training/codelabs/Week4Day5-CodeLab-ExoPlayer/demos/cast/src/main/AndroidManifest.xml:34:7-37:23
+action#android.intent.action.MAIN
+ADDED from /home/sheron/code/android/training/codelabs/Week4Day5-CodeLab-ExoPlayer/demos/cast/src/main/AndroidManifest.xml:35:9-60
+	android:name
+		ADDED from /home/sheron/code/android/training/codelabs/Week4Day5-CodeLab-ExoPlayer/demos/cast/src/main/AndroidManifest.xml:35:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /home/sheron/code/android/training/codelabs/Week4Day5-CodeLab-ExoPlayer/demos/cast/src/main/AndroidManifest.xml:36:9-68
+	android:name
+		ADDED from /home/sheron/code/android/training/codelabs/Week4Day5-CodeLab-ExoPlayer/demos/cast/src/main/AndroidManifest.xml:36:19-66
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [com.google.android.gms:play-services-cast-framework:17.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/80786995d8c5ff27dd61b3011aaa4264/AndroidManifest.xml:7:5-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:17.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/80786995d8c5ff27dd61b3011aaa4264/AndroidManifest.xml:7:22-74
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:17.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/80786995d8c5ff27dd61b3011aaa4264/AndroidManifest.xml:10:9-12:40
+	android:exported
+		ADDED from [com.google.android.gms:play-services-cast-framework:17.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/80786995d8c5ff27dd61b3011aaa4264/AndroidManifest.xml:12:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:17.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/80786995d8c5ff27dd61b3011aaa4264/AndroidManifest.xml:11:13-91
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:17.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/80786995d8c5ff27dd61b3011aaa4264/AndroidManifest.xml:14:9-16:40
+	android:exported
+		ADDED from [com.google.android.gms:play-services-cast-framework:17.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/80786995d8c5ff27dd61b3011aaa4264/AndroidManifest.xml:16:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:17.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/80786995d8c5ff27dd61b3011aaa4264/AndroidManifest.xml:15:13-96
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:17.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/80786995d8c5ff27dd61b3011aaa4264/AndroidManifest.xml:17:9-19:40
+	android:exported
+		ADDED from [com.google.android.gms:play-services-cast-framework:17.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/80786995d8c5ff27dd61b3011aaa4264/AndroidManifest.xml:19:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:17.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/80786995d8c5ff27dd61b3011aaa4264/AndroidManifest.xml:18:13-85
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/f7133b83b95764775dd7b9fdfcdb940e/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/f7133b83b95764775dd7b9fdfcdb940e/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/f7133b83b95764775dd7b9fdfcdb940e/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/f7133b83b95764775dd7b9fdfcdb940e/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/b3528bce76235afb530cdf353ac24c45/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/b3528bce76235afb530cdf353ac24c45/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /home/sheron/.gradle/caches/transforms-2/files-2.1/b3528bce76235afb530cdf353ac24c45/AndroidManifest.xml:24:13-58

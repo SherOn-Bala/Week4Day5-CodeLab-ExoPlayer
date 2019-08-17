@@ -1,0 +1,1 @@
+[{"outputType":{"type":"INSTANT_RUN_MERGED_MANIFESTS"},"apkData":{"type":"MAIN","splits":[],"versionCode":2010004,"versionName":"2.10.4","enabled":true,"outputFile":"demo-ima-debug.apk","fullName":"debug","baseName":"debug"},"path":"AndroidManifest.xml","properties":{"packageId":"com.google.android.exoplayer2.imademo","split":"","minSdkVersion":"16"}}]

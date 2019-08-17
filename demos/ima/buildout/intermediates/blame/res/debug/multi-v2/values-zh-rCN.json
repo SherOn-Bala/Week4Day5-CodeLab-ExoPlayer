@@ -1,0 +1,60 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/sheron/code/android/training/codelabs/Week4Day5-CodeLab-ExoPlayer/demos/ima/buildout/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rCN/values-zh-rCN.xml",
+            "map": [
+                {
+                    "source": "/home/sheron/.gradle/caches/transforms-2/files-2.1/c48506788cad487355a9e956782a3909/res/values-zh-rCN/values-zh-rCN.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "40",
+                        "startColumns": "4",
+                        "startOffsets": "2502",
+                        "endColumns": "100",
+                        "endOffsets": "2598"
+                    }
+                },
+                {
+                    "source": "/home/sheron/.gradle/caches/transforms-2/files-2.1/7bcb75852a4d163d40e371aff005edfb/res/values-zh-rCN/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "251",
+                        "endColumns": "157",
+                        "endOffsets": "408"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "157",
+                        "endOffsets": "258"
+                    }
+                },
+                {
+                    "source": "/home/sheron/code/android/training/codelabs/Week4Day5-CodeLab-ExoPlayer/library/ui/buildout/intermediates/packaged_res/debug/values-zh-rCN/values-zh-rCN.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,123,192,254,316,377,443,514,584,655,718,784,845,907,963,1019,1077,1130,1202,1261,1313,1371,1418,1479,1536,1598,1655,1716,1772,1827,1890,1952,2015,2064,2115,2180,2245",
+                        "endColumns": "67,68,61,61,60,65,70,69,70,62,65,60,61,55,55,57,52,71,58,51,57,46,60,56,61,56,60,55,54,62,61,62,48,50,64,64,48",
+                        "endOffsets": "118,187,249,311,372,438,509,579,650,713,779,840,902,958,1014,1072,1125,1197,1256,1308,1366,1413,1474,1531,1593,1650,1711,1767,1822,1885,1947,2010,2059,2110,2175,2240,2289"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "263,331,400,462,524,585,651,722,792,863,926,992,1053,1115,1171,1227,1285,1338,1410,1469,1521,1579,1626,1687,1744,1806,1863,1924,1980,2035,2098,2160,2223,2272,2323,2388,2453",
+                        "endColumns": "67,68,61,61,60,65,70,69,70,62,65,60,61,55,55,57,52,71,58,51,57,46,60,56,61,56,60,55,54,62,61,62,48,50,64,64,48",
+                        "endOffsets": "326,395,457,519,580,646,717,787,858,921,987,1048,1110,1166,1222,1280,1333,1405,1464,1516,1574,1621,1682,1739,1801,1858,1919,1975,2030,2093,2155,2218,2267,2318,2383,2448,2497"
+                    }
+                }
+            ]
+        }
+    ]
+}
